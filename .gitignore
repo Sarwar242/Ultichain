@@ -130,8 +130,6 @@ qa/pull-tester/tests-config.sh
 
 #development symlinks
 ultichain-cli
-ultichaind
-ultichain-qt
 make
 
 /docker/bin
